@@ -1,7 +1,7 @@
 👋 👋 👋 
 
 Hi, I’m rohit. B.Tech student from Bhopal. Seeking a fresher role to kickstart my career in the IT industry.
-I learned various programming languages i.e C/C++, Java, Python, JavaScript. I also completed two web projects, ToDo app and many more.
+I learned various programming languages i.e C/C++, Java, Python, JavaScript. I also completed three web projects.
 
 
 <!---
