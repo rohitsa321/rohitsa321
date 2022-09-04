@@ -3,6 +3,7 @@
 Hi, I’m rohit. B.Tech student from Bhopal. Seeking a fresher role in the IT industry.
 I learned various programming languages i.e C/C++, Java, Python, JavaScript. I also completed three web projects.
 
+Currently, I am working in Spring boot, Reactjs, Aws.
 
 <!---
 rohitsa321/rohitsa321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
