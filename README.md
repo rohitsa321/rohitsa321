@@ -1,9 +1,11 @@
 👋 👋 👋 
 
-Hi, I’m rohit. B.Tech student from Bhopal. Seeking a fresher role in the IT industry.
-I learned various programming languages i.e C/C++, Java, Python, JavaScript. I also completed three web projects.
+Hi, I’m Rohit. I am a software engineer. Currently located in Bangalore.
+I learned various programming languages and frameworks. I made one Full-stack web project and one single-page project.
 
-Currently, I am working in Spring boot, Reactjs, Aws.
+I worked as an intern for 6 months. My Tech Stack was Spring boot, Reactjs, Aws.
+
+Currently, I'm working as a Test Engineer. My work is to Test SSL-VPN product in and out.
 
 <!---
 rohitsa321/rohitsa321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
